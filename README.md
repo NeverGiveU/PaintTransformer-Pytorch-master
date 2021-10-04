@@ -4,7 +4,7 @@ hi, guys!<br/>
 this is a conversion of the `paddle` implementation of the paper [Paint Transformer: Feed Forward Neural Painting with Stroke Prediction](http://arxiv.org/abs/2108.03798) (ICCV 2021, oral). Here are the [project site 🌐](https://github.com/Huage001/PaintTransformer) and the [official codes 💻](https://github.com/wzmsltw/PaintTransformer).<br/>
 |Target Image|From `Pytorch` | From `Paddle` |
 |--|--|--|
-|<img height=224 width=224 src="./samples/inputs/bingbing.jpg"/>| <img height=224 width=224 src="./samples/outputs/bingbing_pytorch.gif"/> |<img height=224 width=224 src="./samples/outputs/bingbing_paddle.gif"/>|
+|<img height=224 width=224 src="samples/inputs/bingbing.jpg"/>| <img height=224 width=224 src="samples/outputs/bingbing_pytorch.gif"/> |<img height=224 width=224 src="samples/outputs/bingbing_paddle.gif"/>|
 
 ## 1. Simple Start
 Try to run 
